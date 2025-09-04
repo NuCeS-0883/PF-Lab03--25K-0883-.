@@ -8,14 +8,15 @@ This is Lab 03 BCS_1G
 <br/>
 _This is Italic_
 <br/>
-###Unordered List
+   Unordered List
 <br/>
 - Computer Lab
 - GitHub
 - C Language
 - Dev C++
 <br/>
-###Ordered List
+
+  Ordered List
 <br/>
 1. NotePad
 2. MS Word
