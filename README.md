@@ -1,5 +1,16 @@
 # PF-Lab03--25K-0883-
 ##Heading 2
-###Heading 3
+###Heading #
 I am Mahandar Kumar, currently studying Computer Science at Fast NUCES Karachi. My programming interest comprises few experiences I got through in recent years , where World is stepping into the era of machine modernization. My final aim is to do something big in this field of Computer Science with my knowledge.
-
+This is Lab 03 BCS_1G
+<br/>
+**We are curently working in the lab**
+<br/>
+_This is Italic_
+<br/>
+- Computer Lab
+- GitHub
+- C Language
+- Dev C++
+- 
+  
